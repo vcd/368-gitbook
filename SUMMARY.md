@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [index](README.md)
+
+## Syllabus
+
+## Tools & Process
+
+* [Process](tools-and-process/process.md)
+* [CodePen](tools-and-process/codepen.md)
 
