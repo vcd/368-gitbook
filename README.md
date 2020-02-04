@@ -6,6 +6,16 @@ Let's type together and practice [pair programming](https://en.wikipedia.org/wik
 
 > [👔🖊️Master Professor Pen👩‍💻👨‍💻 \(updated link\)](https://codepen.io/manikoth/professor/eYmMMae?editors=1100)
 
+
+
+## Office Hours Remote
+
+[WhereBy/Manikoth](https://whereby.com/manikoth)
+
+## YouTube Channel
+
+[Web 1 YouTube Channel](https://www.youtube.com/watch?v=fKYqbhM_mgc&list=PLJCwj5pf79108a-P5RpqWLtXkuiGzp1YQ). Note: older material.
+
 ## CodePen
 
 [CodePen](https://codepen.io/) will be our tool to practice code and create Assignments.
