@@ -24,6 +24,9 @@
 ## Grid & Flexbox
 
 * [Box Model](grid-and-flexbox/box-model.md)
+* [Positioning](grid-and-flexbox/positioning.md)
+* [FlexBox](grid-and-flexbox/flexbox.md)
+* [Grid](grid-and-flexbox/grid.md)
 
 ## Animation
 
@@ -32,4 +35,8 @@
 ## Syllabus
 
 * [Overview](overview.md)
+
+## Midterm
+
+* [Midterm](midterm/midterm.md)
 

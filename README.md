@@ -6,11 +6,15 @@ Let's type together and practice [pair programming](https://en.wikipedia.org/wik
 
 > [👔🖊️Master Professor Pen👩‍💻👨‍💻 \(updated link\)](https://codepen.io/manikoth/professor/eYmMMae?editors=1100)
 
-
+* Mon/Wed: 11-12pm
+* Tue/Thur: 9-10am
+* Friday by Appointment
+* Remotely : [https://whereby.com/manikoth](https://whereby.com/manikoth)
 
 ## Office Hours Remote
 
-[WhereBy/Manikoth](https://whereby.com/manikoth)
+1. Go to: [WhereBy/Manikoth](https://whereby.com/manikoth)
+2. Authorize Mic/Camera in Browser
 
 ## YouTube Channel
 
