@@ -21,12 +21,12 @@
 
 * [Concepts](rwd/concepts.md)
 
-## Grid & Flexbox
+## Layout
 
-* [Box Model](grid-and-flexbox/box-model.md)
-* [Positioning](grid-and-flexbox/positioning.md)
-* [FlexBox](grid-and-flexbox/flexbox.md)
-* [Grid](grid-and-flexbox/grid.md)
+* [Box Model](layout/box-model.md)
+* [Positioning](layout/positioning.md)
+* [FlexBox](layout/flexbox.md)
+* [Grid](layout/grid.md)
 
 ## Animation
 
