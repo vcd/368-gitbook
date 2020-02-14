@@ -40,9 +40,5 @@
 
 * [Overview](overview.md)
 
-## Assignments
-
-* [Assignments](assignments/as-0.md)
-
 
 
