@@ -2,6 +2,10 @@
 
 * [&lt; Web design="one" /&gt;](README.md)
 
+## Midterm
+
+* [Midterm](midterm/midterm.md)
+
 ## Tools & Process
 
 * [Process](tools-and-process/process.md)
@@ -36,11 +40,5 @@
 
 * [Overview](overview.md)
 
-## Midterm
 
-* [Midterm](midterm/midterm.md)
-
-## Test
-
-* [A Test Page](test/a-test-page.md)
 
