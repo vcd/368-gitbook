@@ -35,10 +35,9 @@
 ## Animation
 
 * [Overview](animation/overview.md)
+* [Transforms](animation/transforms.md)
 
 ## Syllabus
 
 * [Overview](overview.md)
-
-
 
