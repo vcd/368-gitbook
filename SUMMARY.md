@@ -37,8 +37,11 @@
 * [Overview](animation/overview.md)
 * [Transforms](animation/transforms.md)
 * [Transitions](animation/transitions.md)
+* [Keyframe Animation](animation/keyframe-animation/README.md)
+  * [Practice Concepts](animation/keyframe-animation/practice-concepts.md)
+  * [References](animation/keyframe-animation/references.md)
 
 ## Syllabus
 
-* [Overview](overview.md)
+* [Overview](syllabus/overview.md)
 
