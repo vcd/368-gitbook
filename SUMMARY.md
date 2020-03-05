@@ -17,6 +17,10 @@
 
 * [Overview](css-foundations/overview.md)
 
+## JavaScript
+
+* [JavaScript](javascript/javascript.md)
+
 ## Responsive Web Design <a id="rwd"></a>
 
 * [Concepts](rwd/concepts.md)
